@@ -1,6 +1,6 @@
 ### Hello there, my name is Aung Khant Zaw. 👋
 
-- 🔭 I’m currently working on [Klink](https://www.klink.cloud/)
+- 🔭 I’m currently working on [ooredoo myanmar](https://www.klink.cloud/](https://ooredoo.com.mm/portal/en/index)
 - 🌱 I’m currently learning cloud computing
 - 👯 2022 Goals: Contribute open source projects
 
